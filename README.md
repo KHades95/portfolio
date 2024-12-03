@@ -1,5 +1,3 @@
-![01_preview __large_preview](https://github.com/codeplay-code/Davis-Personal-Portfolio-ReactJs-Template/assets/145067902/0db57385-7d6b-47e5-996e-54719e68c8ff)
-
 # Personal Portfolio
 
 ## Overview
